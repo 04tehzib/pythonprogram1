@@ -3,4 +3,4 @@ factor=1
 for i in range(1,A + 1):
        factor= factor*i
         
-print("The factorial of",A,"is",factor)
+print("The factorial of is",factor)
